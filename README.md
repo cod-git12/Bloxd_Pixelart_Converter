@@ -12,7 +12,7 @@
 
 ----
 ## 使い方
-https://cod-git12.github.io/Bloxd_Pixelart_Converter/ からコンバーターを使うことができます
+https://cod-git12.github.io/Bloxd_Pixelart_Converter/ からコンバーターを使うことができます\
 使い方は後々記入します
 
 ----
