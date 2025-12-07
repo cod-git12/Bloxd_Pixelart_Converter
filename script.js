@@ -1,3 +1,4 @@
+ /* === Copyright © 2025 5kaideta_yuuto All rights reserved === */
 const B={White:[200,203,207], "Light Gray":[135,137,140],Gray:[80,80,84],Black:[25,27,30],Brown:[95,60,42],Red:[142,38,32],Orange:[220,94,25],Yellow:[237,178,20],Lime:[95,169,21],Green:[77,98,32],Cyan:[18,126,133],"Light Blue":[65,137,186],Blue:[43,44,138],Purple:[112,45,166],Magenta:[178,59,141],Pink:[215,108,138]};
 function cd(a,b){return (a[0]-b[0])**2+(a[1]-b[1])**2+(a[2]-b[2])**2}
 function f(rgb){let best='White',m=1/0;for(const k in B){const d=cd(rgb,B[k]);if(d<m){m=d;best=k}}return best}
