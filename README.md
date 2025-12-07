@@ -16,6 +16,11 @@ https://cod-git12.github.io/Bloxd_Pixelart_Converter/ からコンバーター�
 使い方は後々記入します
 
 ----
+## お問い合わせフォーム / Inquiry form
+バグの報告や機能の要望などあれば、このフォームからお願いします。
+- 英語版 / English Version ➡ [https://forms.gle/GsfyBYdyxq78rznw5](https://forms.gle/GsfyBYdyxq78rznw5)
+- 日本語版 / Japanese Version ➡ [https://forms.gle/zUsHVQqmRbLanEvp7](https://forms.gle/zUsHVQqmRbLanEvp7)
+----
 ## アップデート履歴
 |日付|バージョン|内容|タグ|
 |---|---|---|---|
